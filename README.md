@@ -37,6 +37,6 @@ LungNoduleNet-3D-CNN/
 
 ## Project Presentation
 
-Detailed methodology, architecture, evaluation metrics, and results are available in:
+Detailed methodology, architecture, evaluation metrics, and results are available here:
 
- `presentation/LungNoduleNet_Project_Presentation.pdf`
+ [Open Presentation PDF](./presentation/LungNoduleNet_Project_Presentation.pdf)
