@@ -34,3 +34,9 @@ LungNoduleNet-3D-CNN/
 - Deployment support
 - Improved accuracy
 - Explainable AI visualization
+
+## Project Presentation
+
+Detailed methodology, architecture, evaluation metrics, and results are available in:
+
+ `presentation/LungNoduleNet_Project_Presentation.pdf`
